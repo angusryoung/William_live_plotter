@@ -1,5 +1,7 @@
 # Read Me
 
+This code is based on the blog 'https://makersportal.com/blog/2018/8/14/real-time-graphing-in-python'
+
 ## Setting it up
 Because I dont want to polute my main enviroment I created a virtaul enviroment that allows me to install the needed dependencies, you might not need to do this
 
